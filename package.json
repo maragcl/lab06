@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maragcl/Lab06-NodeJS.git"
+    "url": "git+https://github.com/maragcl/lab06.git"
   },
   "keywords": [],
   "author": "maria",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/maragcl/Lab06-NodeJS/issues"
+    "url": "https://github.com/maragcl/lab06/issues"
   },
-  "homepage": "https://github.com/maragcl/Lab06-NodeJS#readme"
+  "homepage": "https://github.com/maragcl/lab06#readme"
 }
